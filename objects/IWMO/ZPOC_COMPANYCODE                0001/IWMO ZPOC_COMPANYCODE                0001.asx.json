@@ -1,0 +1,59 @@
+[
+ {
+  "table":"/IWBEP/I_MGW_OHD",
+  "data":
+  [
+   {
+    "TECHNICAL_NAME":"ZPOC_COMPANYCODE",
+    "VERSION":1,
+    "CLASS_NAME":"CL_SADL_GW_RAP_EXPOSURE_MPC",
+    "CREATED_BY":"EZENEBRE",
+    "CHANGED_BY":"",
+    "CREATED_TIMESTMP":"+020230120121819",
+    "CHANGED_TIMESTMP":"0"
+   }
+  ]
+ },
+ {
+  "table":"/IWBEP/I_MGW_OHT",
+  "data":
+  [
+   {
+    "TECHNICAL_NAME":"ZPOC_COMPANYCODE",
+    "VERSION":1,
+    "LANGUAGE":"E",
+    "DESCRIPTION":"Company Code"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"IWMO",
+    "OBJ_NAME":"ZPOC_COMPANYCODE                0001",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"EZENEBRE",
+    "SRCDEP":"",
+    "DEVCLASS":"ZPOC_GW_GCTS",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" L",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2023-01-20",
+    "CHECK_DATE":"2023-01-20",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
